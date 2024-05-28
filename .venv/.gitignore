@@ -1,0 +1,10 @@
+edi_gas_data.csv
+
+/lib/
+/scripts/
+
+/.venv/
+
+/share/
+
+/pyvenv.cfg
